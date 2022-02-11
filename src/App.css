@@ -5,17 +5,11 @@
 }
 body{
   background-color:rgb(3, 3, 22);
-  
-  margin: 20px;
-  
- 
-  
-}
-
+   margin: 20px;
+  }
 .Flex{
   background-color:rgb(19, 19, 48);
-  
-  padding: 1rem;
+   padding: 1rem;
   text-align: left;
   justify-content: center;
   align-items: left;
@@ -24,8 +18,7 @@ body{
   margin-top: 10%;
   height: 250px;
   width: 300px;
-  
-}
+  }
 input[type="email"]{
  width: 80%;
  font-weight: lighter;
@@ -35,7 +28,6 @@ margin:5px;
   padding:7px;
   color: white;
 }
-
 .passwords{
   width: 80%;
   font-weight: lighter;
@@ -44,9 +36,7 @@ margin:5px;
   border: 1px solid rgba (0, 0, 0, 0.2);
    padding:7px;
    color: white;
-   
-}
-
+   }
 input[type="submit"]{
   margin: 10px;
   width: 200px;
@@ -61,8 +51,6 @@ input[type="submit"]{
   color:white;
   font-size: large;
 }
-
-
 h1 {
 color:white;
 }
