@@ -123,7 +123,7 @@ function App() {
       <Link to ="/ContactUs" style ={{textDecoration:"none", padding:"25px", color:"white"}}>contact us </Link>
       <Link to ="/About" style ={{textDecoration:"none", color:"white"}}>about</Link>
     </div>
-<form></form>
+
     <div class="footer"> if you find difficulty accessing your account, Get help <Link to ="/help" style = {{color:"white"}}>here</Link>
     </div>
     </body>
