@@ -1,0 +1,91 @@
+@media only screen and (min-width: 1024px) {
+  .container header .header-nav-area #nav_container  {
+    display:flex;
+  }
+}
+body{
+  background-color:rgb(3, 3, 22);
+  
+  margin: 20px;
+  
+ 
+  
+}
+
+.Flex{
+  background-color:rgb(19, 19, 48);
+  
+  padding: 1rem;
+  text-align: left;
+  justify-content: center;
+  align-items: left;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10%;
+  height: 250px;
+  width: 300px;
+  
+}
+input[type="email"]{
+ width: 80%;
+ font-weight: lighter;
+ background-color:rgba(128,128,128,0.4);
+margin:5px;
+ border: 1px solid rgba (0, 0, 0, 0.2);
+  padding:7px;
+  color: white;
+}
+
+.passwords{
+  width: 80%;
+  font-weight: lighter;
+  background-color:rgba(128,128,128,0.4);
+ margin:5px;
+  border: 1px solid rgba (0, 0, 0, 0.2);
+   padding:7px;
+   color: white;
+   
+}
+
+input[type="submit"]{
+  margin: 10px;
+  width: 200px;
+  height: 30px;
+  font-size:10px;
+ cursor: pointer;
+}
+.error{
+  color: red;
+}
+.sign-in{margin: 10px;
+  color:white;
+  font-size: large;
+}
+
+
+h1 {
+color:white;
+}
+span {
+  font-family:serif; 
+}
+.footer{
+ position: fixed;
+padding: 10px;
+  margin: 20px;
+ top: 1;
+  bottom: 0;
+  width:50%;
+  text-align: center;
+  color:white;
+} 
+.login-form{
+  background-color:rgb(3, 3, 22);
+  padding: 1rem;
+}
+.logged-in{
+  color: white;
+  margin-top:80px;
+}
+
+
